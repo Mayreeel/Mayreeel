@@ -1,4 +1,6 @@
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4b79a1,100:a82da8&height=200&section=header&text=Mayreeel's&fontColor=26a670&fontSize=90&fontAlign=43&fontAlignY=37&desc=Github&descSize=40&descAlign=77&descAlignY=45)
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
