@@ -41,9 +41,8 @@
 </p>
 
 <br>
-
-![overview](https://github.com/Mayreeel/Mayreeel/assets/112528747/a764c3f8-30bb-4c0a-aba5-d2c6c6f88a63)
-![languages](https://github.com/Mayreeel/Mayreeel/assets/112528747/302f3414-cb26-4fb5-a90f-b299eb31854a)
-
+  
+![overview](https://github.com/Mayreeel/Mayreeel/assets/112528747/9b32ad7b-77a9-4720-9091-90a35a0f8cc2)
+![languages](https://github.com/Mayreeel/Mayreeel/assets/112528747/c8aa071c-400c-4710-8a71-bd37784f3cdc)
 
 </div>
