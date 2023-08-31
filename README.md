@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://velog.io/@kuwon15"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kuwon15"/></a>&nbsp
     <a href="https://www.notion.so/Kyu-hyun-Lee-53eb66850bc346a6a6edcab7ecbdab29?pvs=4"><img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=Notion&logoColor=white=https://www.notion.so/Kyu-hyun-Lee-53eb66850bc346a6a6edcab7ecbdab29?pvs=4"/></a>&nbsp
-    <img src="https://img.shields.io/badge/kuwon15@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/kyuhyun.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </p>
   
   <h2 align="center">🧑‍💻 Teck Stacks 🧑‍💻</h2>
